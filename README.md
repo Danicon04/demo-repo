@@ -3,4 +3,6 @@ some description!
 
 ## Subheader
 Watch tutorial on YouTube
-[pokijhgf]
+
+## Local Development
+1. Open index.html in your browser
